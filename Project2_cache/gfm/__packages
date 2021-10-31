@@ -1,0 +1,13 @@
+base
+readxl
+dplyr
+randomForest
+tidyr
+ggplot2
+lattice
+caret
+gbm
+e1071
+knitr
+shiny
+rmarkdown
